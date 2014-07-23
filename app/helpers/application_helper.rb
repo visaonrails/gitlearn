@@ -2,3 +2,6 @@
 module ApplicationHelper
 end
 #dev another
+
+#This is a bug fix from master
+
