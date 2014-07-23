@@ -1,4 +1,4 @@
-# Methods added to this helper will be available to all templates in the application. dev
+# Methods added to this helper will be available to all templates in the application. dev dev
 module ApplicationHelper
 end
 #dev another
