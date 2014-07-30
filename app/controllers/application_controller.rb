@@ -8,3 +8,14 @@ class ApplicationController < ActionController::Base
   # Scrub sensitive parameters from your log b
   # filter_parameter_logging :password 
 end
+
+
+#This will not go
+
+#omg I am from new
+
+# fana
+#haha this is from test
+
+
+#from test :: dai nan commit anathuku apram .... master merge akiruku dev oda
